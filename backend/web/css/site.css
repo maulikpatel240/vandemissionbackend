@@ -1,0 +1,4 @@
+.wo_colrd_post_sample {margin-bottom: 30px;height: 200px;border-radius: 4px;position: relative;background-position: center;background-repeat: no-repeat;background-size: cover;}
+.wo_colrd_post_sample h3 {text-align: center;line-height: 200px;}
+.wo_colrd_post_sample span {position: absolute;top: 5px;right: 5px;cursor: pointer;display: block;z-index: 1;color: white;background-color: rgba(0, 0, 0, 0.5);width: 30px;height: 30px;border-radius: 50%;text-align: center;}
+.wo_colrd_post_sample span i {line-height: 30px;font-size: 19px;}
