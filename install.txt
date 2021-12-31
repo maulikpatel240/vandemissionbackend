@@ -1,0 +1,12 @@
+php composer.phar create-project yiisoft/yii2-app-advanced advanced
+
+or
+https://www.yiiframework.com/download
+
+Windows10 => cpanel => advane system settings=> environment variable
+Set User variable: PATH click & edit add  end of C:\xampp\php and C:\ProgramData\ComposerSetup\bin -> ok click
+Set System variable : PATH click & edit add end of C:\xampp\php and C:\ProgramData\ComposerSetup\bin -> ok click
+Set System variable : PATH click & edit add end of ;.PHAR
+php -v
+php init
+php composer.phar update
